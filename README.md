@@ -1,2 +1,3 @@
 # Basic-Python-Projects
-These are some of my daily learning projects in python.
+The following repository consists of some of my daily base python projects.
+
